@@ -1,3 +1,5 @@
+//java code
+
 import java.io.*;
 import java.util.*;
 
