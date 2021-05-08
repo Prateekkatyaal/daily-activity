@@ -1,3 +1,5 @@
+
+//kotlin code
 package com.example.blogapp
 
 import android.view.LayoutInflater
